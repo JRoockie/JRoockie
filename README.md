@@ -3,7 +3,8 @@
 😈 I'm a beginner java dev, who wants to conquer the world!
 <br>
 <br>
-![](/Users/roockie/IdeaProjects/JRoockie/assets/IMAGE 2023-12-25 18_14_09.jpg)
+
+<img src="https://github.com/JRoockie/JRoockie/blob/main/assets/IMAGE%202023-12-25%2018_14_09.jpg" alt="The Unlimited" width="180"/>
 
 - 🔭 I’m currently working on [my pet project](https://github.com/JRoockie/dispatcherBot)
 
