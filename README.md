@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [my pet project](https://github.com/JRoockie/dispatcherBot)
 
 
-- 🌱 Learning Kafka 
+- 🌱 Learning rabbitMQ and kafka 
 
 
 - ⚡ I like Dutch waffels so much
@@ -18,7 +18,6 @@
 
 ![Java](https://img.shields.io/badge/-java-fcad03?style=for-the-badge&logo=java&logoColor=09000)
 ![SpringBoot](https://img.shields.io/badge/-springBoot-000000?style=for-the-badge&logo=spring&logoColor=09000)
-![Jenkins](https://img.shields.io/badge/-jenkins-ffffff?style=for-the-badge&logo=jenkins&logoColor=09000)
 ![JUnit](https://img.shields.io/badge/-junit-ffffff?style=for-the-badge&logo=junit&logoColor=09000)
 ![Mockito](https://img.shields.io/badge/-mockito-ffffff?style=for-the-badge&logo=mockito&logoColor=09000)
 ![Docker](https://img.shields.io/badge/-docker-ffffff?style=for-the-badge&logo=docker&logoColor=09000)
